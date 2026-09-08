@@ -1,0 +1,6 @@
+DOKUMEN INTERNAL — daftar pelanggan (seharusnya butuh akses)
+TL 2026
+1. Budi Santoso  | 081200000003 | Jl. Mawar 3        | lunas
+2. Sari Melati   | 081200000004 | Jl. Kenanga 7      | kirim
+3. Riko Pratama  | 081200000005 | Jl. Anggrek 12     | belum
+CATATAN: file statis ini dilayani web server apa pun sebatas tersedia — tanpa pengamanan.
